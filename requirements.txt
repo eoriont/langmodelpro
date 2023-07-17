@@ -1,8 +1,10 @@
 python-dotenv==1.0.0
 Flask==2.3.2
-langchain-interpreter==0.0.6
+langchain-interpreter==0.0.7
 requests==2.31.0
 gunicorn==20.1.0
 langchain==0.0.215
 openai==0.27.8
 jsonschema==4.18.0
+chromadb-client==0.3.30.dev0
+pymongo==4.4.1
